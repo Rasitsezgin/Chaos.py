@@ -5,7 +5,7 @@
 #!/usr/bin/env python3
 
 import requests
-import signal
+import signal 
 import sys
 import os
 import queue
